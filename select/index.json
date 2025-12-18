@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Symbol I : △",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2025-12-18T09:14:37.531768Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mama Said \"Respect the Venus Symbol\" I Didn't Listen",
+      "artist": "IDK",
+      "has_synced": true,
+      "path": "select/01_Mama_Said__Respect_the_Venus_Symbol__I_Didn't_Listen_IDK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Symbol (I Know)",
+      "artist": "Dano feat. Halpe",
+      "has_synced": true,
+      "path": "select/02_The_Symbol_(I_Know)_Dano_feat._Halpe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Symbol (I Know)",
+      "artist": "Dano/Halpe",
+      "has_synced": true,
+      "path": "select/03_The_Symbol_(I_Know)_Dano_Halpe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Symbol I : △",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/04_Symbol_I___△_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Symbol I : △",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/05_Symbol_I___△_Ave_Mujica.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "symbol i",
+      "artist": "ave mujica",
+      "has_synced": true,
+      "path": "select/06_symbol_i_ave_mujica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Symbol I：△",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/07_Symbol_I_△_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Symbol I - 🜂",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/08_Symbol_I_-_🜂_Ave_Mujica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Symbol I : △",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_Symbol_I___△_Ave_Mujica.txt"
+    }
+  ]
+}
